@@ -4,6 +4,7 @@
 .Rapp.history
 .Rproj
 .DS_Store
+.Rprofile 
 
 # Session Data files
 .RData
